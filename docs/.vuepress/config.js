@@ -25,7 +25,7 @@ module.exports={
           }
         }
     },
-    base:'/black-ops-zombies-story-discovery/',
+    base:'/black-ops-zombies-guide/',
     head: [
         ['link', { rel: 'manifest', href: '/manifest.json' }],
         ['link', { rel: 'icon', href: '/Icon-512.png' }],

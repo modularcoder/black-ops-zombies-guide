@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:NeroBlackstone/black-ops-zombies-story-discovery.git master:gh-pages
-
+git push -f git@github.com:NeroBlackstone/black-ops-zombies-guide.git master:gh-pages
+#git push -f git@gitlab.com:NeroBlackstone/black-ops-zombies-guide.git master:gh-pages
 cd -
