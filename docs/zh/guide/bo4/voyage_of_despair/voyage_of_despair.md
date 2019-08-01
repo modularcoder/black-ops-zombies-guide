@@ -260,9 +260,98 @@
 如果你没有在限制的时间内摧毁最后一块冰，屏幕会闪白且可以听到失败的声音。你需要在下一回合回到船头与太阳精华互动才能重新开始。
 :::
 ### 行星顺序记录器
-点击并拖动两个列表之间的行星来记录其顺序 为了方便起见，行星是按顺序进行排列的 太阳由于一定是在最后一个，所以固定排在最后。 使用 重置按钮 来重置它们的排序。
+点击并拖动两个列表之间的行星来记录其顺序 为了方便起见，行星是按顺序进行排列的 太阳由于一定是在最后一个，所以固定排在最后。
+
+<vodPlanetsSorter/>
 
 ## 防弹盾
+<imageLink title="防弹盾"><img src="./image/shield.jpeg"/></imageLink>是一种可建造的装备，既可以作为武器使用（类似于多人模式的Ajax的盾）, 也可以 保护玩家的屁股不被僵尸爆菊。 在建造之前，你需要找到3个盾牌零件， 每个零件都有随机的3个刷新点。
 
+你可以随时按住`TAB`键查看你的队伍收集到了哪些盾牌部件。
+### 部件1(盾牌顶部)
+![盾牌顶部](./image/shield-piece-2.jpg)
+
+- 舰桥 - 从主舵往大厅里面走的一个小维修室内。<imageLink title="图片"><img src="./image/shield-piece-1-location1.jpg"/></imageLink> 
+- 舰桥 - 在舰桥室和大厅之间的一个小走廊的栏杆上， 在RK7购买点的后面。<imageLink title="图片"><img src="./image/shield-piece-1-location2.jpeg"/></imageLink>
+- 舰桥 - 在舰桥室外左侧，看向出生地的方向。
+### 部件2(盾牌牌身)
+![盾牌牌身](./image/shield-piece-1.jpg)
+
+- 休息室 - 在一个大衣橱的架子上，在一些毛巾附近。
+- 休息室 - 从出生地进入，在房间左侧。 在面向门的椅子上。 <imageLink title="图片"><img src="./image/middle-location2.jpeg"/></imageLink> 
+- 休息室 - 在靠近MOG（喷子）武器购买点的房间里的滚动椅上。 <imageLink title="图片"><img src="./image/shield-piece-2-location2.jpeg"/></imageLink>
+### 部件 3 (盾牌底部)
+![盾牌底部](./image/shield-piece-3.jpg)
+
+- 食物储藏室 - 放在一些大苹果箱旁边的盒子上。在ICR武器购买点的左边。
+- 食物储藏室 - 靠在墙上的一些盒子上。 穿过大厅，直接通往三等卧铺仓的楼梯后面。<imageLink title="图片"><img src="./image/shield-part3-location2.jpeg"/></imageLink> 
+- 三等舱卧铺 - 靠在通往船尾甲板楼梯右侧的栏杆上的白色墙壁上。 在其中一个[钟](#时钟位置)的左边。<imageLink title="图片"><img src="./image/shield-piece-3-location1.jpeg"/></imageLink>
 ## 升级盾牌(冰神守护)
+一旦盾牌被制作出来，它就可以通过另一系列步骤进行升级。 升级后的护盾有更多的耐久度和冰冻子弹效果，对付**瘟疫之父**特别有效。
 
+首先，拿着你的盾牌, 到邮件收发室, 然后找到<imageLink title="中等尺寸大小的保险箱"><img src="./image/large-safe.jpeg"/></imageLink>. 你应该能够注意到<imageLink title="一个蟹状的装置贴在保险箱上面"><img src="./image/cracker.jpeg"/></imageLink>这就是CG里面的保险箱破解装置. 用盾牌撞击破解器，使其落在地上并将其捡起来。
+
+接下来，看看附近的房间里有没有四块骨头。 每块骨头附近都应该有一张纸，上面写着4个数字。 注意这四个数字以及它附近的骨头。
+::: tip
+头骨的数字有些许难度看清。 它藏在一些啤酒瓶后面，你需要将啤酒瓶打碎，而且在低分辨率下的数字很可能是模糊的。 如果你看这组数字有困难，你可能需要购买狙击步枪或带倍镜的武器。
+:::
+有了这几组数字，您必须在地图周围找到四个保险箱。
+- <imageLink title="头等舱休息室 (宙斯神像)"><img src="./image/safe-zeus.jpeg"/></imageLink> - 在宙斯和大楼梯之间的一个黑暗的小走廊里
+- <imageLink title="百万富翁套房"><img src="./image/safe-millionaire.jpeg"/></imageLink> - 在卧室前面的大房间里
+- <imageLink title="三等仓卧铺"><img src="./image/safe-berths.jpeg"/></imageLink> - 在通往食物仓库的楼梯和通往船尾甲板的楼梯之间的走廊
+- <imageLink title="舰桥室 (船长宿舍)"><img src="./image/safe-bridge.jpeg"/></imageLink> - 靠近浴室的小卧室
+
+把密码破解器放在保险箱上，查看它生成的代码。 这个密码将对应于一张纸和一块骨头。 回到邮件收发室，拿起和纸上密码相匹配的骨头，放在相应的保险箱里。 
+::: tip
+如果你捡了错误的骨头, 只需与它原来的地方互动就可以把它放回去。
+:::
+::: warning
+如果你把错误的骨头放到了错误的保险箱内, 你必须将剩下的3个骨头都扔进保险箱并进行下一波 才能够重新开始这个彩蛋。
+:::
+当所有四块骨头都放进保险箱后，您可以回到货舱并查看 楼梯底部入口的左侧。 与<imageLink title="板条箱内的汽车"><img src="./image/car.jpeg"/></imageLink>互动， 汽车会慢慢沉入地下，然后会出现在天空上灵车漂移。 但是，最好在启动汽车之前准备好几个小瓶子。 阅读下一步了解更多信息。
+::: tip
+打开游戏声音有助于定位汽车的位置, 因为它在飞行时会发出独特的声音。
+:::
+接下来，你必须在地图上寻找并射击绿色的小瓶子, 类似于 CG里的场景. 这些小瓶卡在气动管的入口内，因此在寻找时要寻找长的弯曲管道。 气动管道应始终位于内窗/破碎门内。
+- <imageLink title="舰桥"><img src="./image/sender-bridge.jpeg"/></imageLink> - 在船长舵左侧的房间内
+- <imageLink title="舰桥"><img src="./image/sender-rk7.jpeg"/></imageLink> - 在RK-7购买点的左边
+- <imageLink title="靠近船尾甲板的区域"><img src="./image/sender-aft.jpeg"/></imageLink> - 在船尾甲板和厨房之间的走廊。 可以从窗户上听到音乐在里面传出
+- <imageLink title="头等舱休息室"><img src="./image/sender-zeus.jpg"/></imageLink> - 在 宙斯神像 左侧的破损的门里。
+- <imageLink title="三等舱卧铺"><img src="./image/sender-berths.jpeg"/></imageLink> - 楼梯的下部。在[其中一个钟](#时钟位置)的旁边
+
+你可以在任何时候射击这些瓶子，包括在游戏刚刚开始的时候。 建议尽早开始对小瓶进行操作，尤其是你想 试图在尽可能压低波数的情况下完成护盾升级。 每一波都可以收集一个。
+
+一旦你射击一个小瓶，它会从几个地方的另一个管道中掉出来。
+- <imageLink title="百万富翁套房"><img src="./image/getter-millionaire.jpeg"/></imageLink> - 在快速旅行传送门的左边
+- <imageLink title="邮件室"><img src="./image/getter-mailroom.jpeg"/></imageLink> - 在楼梯对面。货舱入口右侧。
+- <imageLink title="引擎室"><img src="./image/getter-engine.jpeg"/></imageLink> - 穿过食物仓库后进入引擎室门的左边。 在海怪元素<imageLink title="蒸馏器"><img src="./image/distillery.jpeg"/></imageLink>的对面
+
+拿起小瓶， 在继续之前，你必须拿到至少一个小瓶, 但最多可以拿4个。
+
+一旦你有了一个小瓶，把它放在船甲板上四个其中一个白色小管里。
+- <imageLink title="船前甲板 (出生地)"><img src="./image/firework-danu.jpeg"/></imageLink> - 在达努神像右边
+- <imageLink title="船前甲板 (出生地)"><img src="./image/firework-strafe.jpeg"/></imageLink> - 在 Strafe（小手枪） 购买点的左边
+- <imageLink title="船尾甲板"><img src="./image/firework-shield.jpeg"/></imageLink> - 在盾牌制作台的**正前方**。
+- <imageLink title="船尾甲板"><img src="./image/firework-poopdeck.jpeg"/></imageLink> - 在盾牌制作台的**正后方**。
+
+在射击白管后，会让一枚烟花射向空中。 使用这个烟花去射空中的灵车. 如果你射空了, 你可能需要等待下一波再重试。 汽车会在一定的时间限制后消失，但可以通过重新和货舱中汽车互动来重新激活汽车。
+
+一旦击中汽车, 汽车会在失控撞上冰山前围着船继续嘚瑟几圈。 汽车撞上冰山之后，会出现一块蓝色的冰将飞向护盾工作台并升级护盾。 您手上的防护罩不会立刻自动升级，但你可以免费到工作台获取新的盾牌--冰神守护。
+::: tip
+当你击中汽车的时候，你可以看到烟花插在 了汽车的底盘上，并且会听到一个惨叫的声音，并且汽车会开始加速。
+:::
+## 地图音乐
+每张僵尸模式地图都对应了有不同的音乐彩蛋，绝望之旅也是其中之一，音乐彩蛋一旦激活，所有玩家都可以听到彩蛋音乐。
+
+要完成这个彩蛋，你需要找到4枚发光并且不同颜色的印记，并使用武器射击它们。如果操作正确，印记会闪烁消失并发出“叮”的声音。
+### 硬币位置
+- **绿色印记** - 在舰桥右侧楼梯背面的箱子后面。<imageLink title="印记位置"><img src="./image/1.jpg"/></imageLink>
+- **蓝色印记** - 在大旋梯最底层强化机底座旁边抬头向楼梯方向看。<imageLink title="印记位置"><img src="./image/2.jpg"/></imageLink>
+- **红色印记** - 在右玄甲板，倒塌的烟囱和完整烟囱中间的救生船内，在一堆箱子在缝隙里。<imageLink title="印记位置"><img src="./image/3.jpg"/></imageLink>
+- **紫色印记** - 船尾甲板上层左手边的角落里，缆绳和木箱缝隙之间。<imageLink title="印记位置"><img src="./image/4.jpg"/></imageLink>
+
+射击最后一枚印记之后，音乐彩蛋就会立刻开始播放。
+
+主彩蛋音乐: 
+
+<audio controls><source src="./audio/Voyage-of-Despair-Drowning.mp3"></audio>
