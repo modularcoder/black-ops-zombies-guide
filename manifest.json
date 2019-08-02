@@ -1,0 +1,20 @@
+{
+    "name": "Black Ops Zombie Guide",
+    "short_name": "Zombie Guide",
+    "icons": [
+        {
+            "src": "Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#272822"
+}
